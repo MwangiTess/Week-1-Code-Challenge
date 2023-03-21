@@ -1,5 +1,4 @@
 # Week-1-Code-Challenge
-# Week-1-Code-Challenge
 
 1. Project Title: Student Grade Generator (Toy Problem)
 2. Project Description.
